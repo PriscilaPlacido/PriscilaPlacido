@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<div>
+  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=PriscilaPlacido&show_icons=true&theme=transparent" />
+</div>
+
+
 <!--
 **PriscilaPlacido/PriscilaPlacido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
